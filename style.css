@@ -1,12 +1,12 @@
 @font-face {
     font-family: "DBOzone";
-    src: url('Fonts/DBOzoneXLiItv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXLiv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXMedItv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXMedv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXUlLiItv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXUlLiv3.2.ttf') format("truetype");
-    src: url('Fonts/DBOzoneXv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXLiItv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXLiv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXMedItv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXMedv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXUlLiItv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXUlLiv3.2.ttf') format("truetype");
+    src: url('https://raw.githubusercontent.com/cpx2017/dbozoneFont/main/Fonts/DBOzoneXv3.2.ttf') format("truetype");
   }
   body {
     font-family: 'DBOzone', sans-serif !important;
