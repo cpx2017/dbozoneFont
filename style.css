@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "DBOzone";
+    src: url('Fonts/DBOzoneXLiItv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXLiv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXMedItv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXMedv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXUlLiItv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXUlLiv3.2.ttf') format("truetype");
+    src: url('Fonts/DBOzoneXv3.2.ttf') format("truetype");
+  }
+  body {
+    font-family: 'DBOzone', sans-serif !important;
+  }
+  body {
+    font-size: 20px;
+  }
+  @media screen and (min-width: 320px) {
+    body {
+      font-size: calc(20px + 4 * ((100vw - 320px) / 880)) !important;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    body {
+      font-size: 24px !important;
+    }
+  }
